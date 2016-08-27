@@ -1,0 +1,8 @@
+* This script is used for burning the LPC11U14's firmware.
+
+* Instruction
+** make download        (download the firmware)
+** make reflash_lpclink (when using the LPC-Link)
+** make reflash_ulink2  (when using the ULINK2)
+** make erase_lpclink   (when using the LPC-Link)	
+** make erase_ulink2    (when using the ULINK2)

@@ -1,0 +1,6 @@
+* This script is used for burning the MM's firmware.
+
+* Instruction
+** make download        (download the firmware)
+** make reflash         (burn firmware to flash)
+** make load            (burn firmware to ram)

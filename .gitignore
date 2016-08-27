@@ -1,0 +1,5 @@
+*.mcs
+*.bit
+*.axf
+*.hex
+*.bin
